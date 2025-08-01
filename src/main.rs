@@ -153,3 +153,7 @@
 //     list.sort_by_key(|r: &Rectangle| r.width);
 //     println!("{:#?}", list);
 // }
+
+fn main() {
+    println!("123");
+}
